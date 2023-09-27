@@ -1,20 +1,17 @@
-![Logo Java](https://seeklogo.com/images/J/java-logo-7833D1D21A-seeklogo.com.png))
+![Logo Java](https://static.vecteezy.com/system/resources/thumbnails/010/265/384/small/cute-happy-3d-robot-png.png)
 
-# Titulo del Proyecto
+# Algoritmos y Programacion 2
 
-Un párrafo de la descripción del proyecto va aquí.
+El fin del proyecto es documentar todos los avances en conocimiento y practica de lo visto en clases.
 
 ## Empezando
 
-Estas instrucciones le permitirán obtener una copia del proyecto en funcionamiento en su máquina local para fines de desarrollo y prueba. Consulte implementación para obtener notas sobre cómo implementar el proyecto en un sistema en vivo.
+
 
 ### Requisitos previos
 
-Qué cosas necesitas para instalar el software y cómo instalarlas
-
-```
-Give examples
-```
+Neesitas tener en tu maquina local un sofware para editar codigo, te recomiendo visual studio code
+en la terminal del programa vas a clonar el proyecto 
 
 ### Instalación
 
@@ -71,7 +68,7 @@ Usamos Git para el control de versiones. Para conocer las versiones disponibles,
 
 ## Autores
 
-* **Gustavo Sánchez** 
+* **Carlos Quenan** 
 
 
 ## Licencia
